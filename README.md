@@ -12,6 +12,10 @@ No final ainda chamei meu outro amigo [Pedro](https://github.com/PedroHenriqueMo
 ### Desenvolvimento
 O projeto consiste em basicamente tentar desenvolver um código que se aproximasse o máximo possível da imagem acima.
 
+### Resultado
+Após alguns toques e preferências pessoais, o resultado final foi:
+![](https://github.com/Victor-Lis/Order-Summary-Component/blob/master/design/final-result.png)
+
 ## Autores
 - [Victor-Lis](https://github.com/Victor-Lis)
 - [Miguel](https://github.com/MiguelRED1209)
