@@ -13,6 +13,6 @@ No final ainda chamei meu outro amigo [Pedro](https://github.com/PedroHenriqueMo
 O projeto consiste em basicamente tentar desenvolver um código que se aproximasse o máximo possível da imagem acima.
 
 ## Autores
-- [Victor-Lis)(https://github.com/Victor-Lis)
+- [Victor-Lis](https://github.com/Victor-Lis)
 - [Miguel](https://github.com/MiguelRED1209)
 - [Pedro](https://github.com/PedroHenriqueMoraesSamsonas)
